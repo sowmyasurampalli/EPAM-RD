@@ -21,6 +21,7 @@ public class UseImmutableEarth {
 		countriesCapitals.put("Canada", "Ottava");
 		ImmutableEarth iEarth = new ImmutableEarth(amountOfWater, amountOfLand, numberOfCountries, countriesCapitals);
 		
+		
 		System.out.println(iEarth.getAmountOfLand());
 		System.out.println(iEarth.getAmountOfWater());
 		System.out.println(iEarth.getNumberOfCountries());
