@@ -1,5 +1,5 @@
 
-package com.epam.immutableObject;
+package main.java.com.epam.immutableObject;
 
 import java.util.HashMap;
 
